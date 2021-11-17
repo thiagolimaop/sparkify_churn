@@ -24,7 +24,7 @@ In the business world, churn is defined when a customer cancels or abandons the 
 
 ## Results<a name="results"></a>
 
-All the process and results of this project can be found at the post available [here]().
+All the process and results of this project can be found at the post available [here](https://thiagolimaop.medium.com/customer-churn-prediction-using-spark-with-a-declarative-approach-643246f744f8).
 
 ## Acknowledgments<a name="acknowledgments"></a>
 
